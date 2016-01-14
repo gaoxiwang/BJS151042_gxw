@@ -13,7 +13,7 @@
 @property(strong,nonatomic)UIView *view1;
 @property(strong,nonatomic)UILabel *mylabel1;
 @property(strong,nonatomic)UILabel *mylabel2;
-
+@property(strong,nonatomic)UIButton *button;
 
 
 @end
