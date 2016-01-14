@@ -12,7 +12,7 @@
 
 
 
-@property(strong,nonatomic)UIButton *myButton;
+
 @property(strong,nonatomic)UITextField *textField;
 
 
