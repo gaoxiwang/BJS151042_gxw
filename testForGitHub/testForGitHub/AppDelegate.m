@@ -12,7 +12,7 @@
 @property(strong,nonatomic)UILabel *mylabel;
 @property(strong,nonatomic)UIButton *myButton;
 @property(strong,nonatomic)UITextField *textField;
-
+@property(strong,nonatomic)UIView *view;
 @end
 
 @implementation AppDelegate
