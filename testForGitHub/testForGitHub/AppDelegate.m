@@ -14,6 +14,7 @@
 @property(strong,nonatomic)UITextField *textField;
 @property(strong,nonatomic)UIView *view;
 @property(strong,nonatomic)UILabel *mylabel1;
+
 @end
 
 @implementation AppDelegate
