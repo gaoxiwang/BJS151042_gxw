@@ -12,6 +12,8 @@
 @property(strong,nonatomic)UILabel *mylabel;
 @property(strong,nonatomic)UIButton *myButton;
 @property(strong,nonatomic)UITextField *textField;
+@property (strong,nonatomic) UIViewController *myViewController;
+
 
 @end
 
