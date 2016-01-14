@@ -17,7 +17,11 @@
 
 
 
-@property(strong,nonatomic)UITextField *Field;
+
+
+@property(strong,nonatomic)UIView *view;
+@property(strong,nonatomic)UILabel *mylabel1;
+
 
 
 
