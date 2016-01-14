@@ -21,7 +21,7 @@
 
 @property(strong,nonatomic)UIView *view;
 @property(strong,nonatomic)UILabel *mylabel1;
-
+@property(strong,nonatomic)UILabel *mylabel2;
 
 
 
