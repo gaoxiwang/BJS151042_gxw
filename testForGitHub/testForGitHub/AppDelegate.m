@@ -9,15 +9,22 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-@property(strong,nonatomic)UILabel *mylabel;
-@property(strong,nonatomic)UIButton *myButton;
+
+
+
+
 @property(strong,nonatomic)UITextField *textField;
+<<<<<<< HEAD
 <<<<<<< HEAD
 @property(strong,nonatomic)UIView *view1;
 @property (strong,nonatomic) UIViewController *myViewController;
 =======
 ==========
 @property(strong,nonatomic)UIView *view;
+=======
+
+@property(strong,nonatomic)UITextField *Field;
+>>>>>>> 98f58aa07cf44894d3a0c29b6ad2271b92966b55
 
 >>>>>>> b788aeba931a11d7d30bff3ed7c1b9267c7ba450
 
