@@ -9,16 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
-
-
-
 @property(strong,nonatomic)UITextField *textField;
-
-
-
-
-
 @property(strong,nonatomic)UIView *view1;
 @property(strong,nonatomic)UILabel *mylabel1;
 @property(strong,nonatomic)UILabel *mylabel2;
