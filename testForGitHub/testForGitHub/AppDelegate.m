@@ -13,7 +13,7 @@
 @property(strong,nonatomic)UIButton *myButton;
 @property(strong,nonatomic)UITextField *textField;
 @property(strong,nonatomic)UIView *view;
-@property (strong,nonatomic) UIViewController *myViewController;
+
 
 @end
 
