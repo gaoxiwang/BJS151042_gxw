@@ -15,6 +15,7 @@
 
 @property(strong,nonatomic)UITextField *textField;
 
+@property(strong,nonatomic)UITextField *Field;
 
 
 @end
