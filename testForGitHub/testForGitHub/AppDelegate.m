@@ -12,8 +12,13 @@
 @property(strong,nonatomic)UILabel *mylabel;
 @property(strong,nonatomic)UIButton *myButton;
 @property(strong,nonatomic)UITextField *textField;
+<<<<<<< HEAD
 @property(strong,nonatomic)UIView *view1;
 @property (strong,nonatomic) UIViewController *myViewController;
+=======
+@property(strong,nonatomic)UIView *view;
+
+>>>>>>> b788aeba931a11d7d30bff3ed7c1b9267c7ba450
 
 
 
