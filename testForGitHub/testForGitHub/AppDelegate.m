@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 @property(strong,nonatomic)UILabel *mylabel;
+@property(strong,nonatomic)UIButton *myButton;
+
 
 @end
 
